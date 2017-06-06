@@ -12,4 +12,3 @@
 6. CleanCodeHandbook_v1.0.3——算法
 
 7. 大话设计模式
-8. Head_First设计模式_中文版(四人帮版)
