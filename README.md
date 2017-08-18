@@ -1,17 +1,6 @@
 # messageNote
 
-### 图形、算法、设计模式相关书籍
-
-1. LearnOpenGL的pdf格式
-2. Real_Time_Rendering_3rd
-2. WebGL_Up_and_Running
-3. GPU+gems+1
-4. GPU+gems+2
-5. GPU+Pro
-
-6. CleanCodeHandbook_v1.0.3——算法
-
-7. 大话设计模式
+### 长期积累的在线学习网站
 
 #### 1. OpenGL
 - [OpenGL](https://www.opengl.org) : 官方网站 
@@ -39,3 +28,15 @@
 - [Learn Anything](https://learn-anything.xyz) ：一个非常好用的学习搜索工具，能够很好地呈现学习路线  
 - [GPU Gems系列](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
 - [TingPNG](https://tinypng.com) ：一个无损的图片压缩在线网站
+
+### 图形、算法、设计模式相关书籍
+
+1. LearnOpenGL的pdf格式
+2. Real_Time_Rendering_3rd
+2. WebGL_Up_and_Running
+3. GPU+gems+1
+4. GPU+gems+2
+5. GPU+Pro
+6. CleanCodeHandbook_v1.0.3——算法
+
+7. 大话设计模式
