@@ -29,7 +29,7 @@
 - [GPU Gems系列](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
 - [TingPNG](https://tinypng.com) ：一个无损的图片压缩在线网站
 
-### 图形、算法、设计模式相关书籍
+### 图形相关书籍
 
 1. LearnOpenGL的pdf格式
 2. Real_Time_Rendering_3rd
@@ -37,6 +37,12 @@
 3. GPU+gems+1
 4. GPU+gems+2
 5. GPU+Pro
-6. CleanCodeHandbook_v1.0.3——算法
+6. [OpenGL SuperBible](http://www.openglsuperbible.com/)
+7. [More Opengl Programming](http://glbook.gamedev.net/GLBOOK/glbook.gamedev.net/moglgp/index.html)
 
-7. 大话设计模式
+
+### 算法相关书籍
+1. CleanCodeHandbook_v1.0.3——算法
+
+### 设计模式相关书籍
+1. 大话设计模式
