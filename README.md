@@ -1,6 +1,6 @@
 # messageNote
 
-### 长期积累的在线学习网站
+### 一、长期积累的在线学习网站
 
 #### 1. OpenGL
 - [OpenGL](https://www.opengl.org) : 官方网站 
@@ -17,11 +17,11 @@
 - [Imagination中文网](http://imgtec.eetrend.com/tag/1831)：一个中文技术社区 
 - [The Books Of Shaders](http://thebookofshaders.com)：一本讲解shader开发的书，各种语言
 
-### 3. WebGL
+#### 3. WebGL
 - [WebGL中文网](http://hewebgl.com/article/articledir/1)
 - [three.js官网](https://threejs.org/examples/)
 
-### 4. 其他
+#### 4. 其他
 - [开源计算机图形学社区](http://www.opengpu.org/forum.php)
 - [Vulkan](https://www.khronos.org/vulkan/) ：新一代图形渲染API，[Vulkan Tutorial](https://vulkan-tutorial.com/Loading_models)
 - [线性代数](https://betterexplained.com/articles/linear-algebra-guide/)
@@ -29,20 +29,67 @@
 - [GPU Gems系列](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
 - [TingPNG](https://tinypng.com) ：一个无损的图片压缩在线网站
 
-### 图形相关书籍
+### 二、推荐书籍
 
-1. LearnOpenGL的pdf格式
-2. Real_Time_Rendering_3rd
-2. WebGL_Up_and_Running
-3. GPU+gems+1
-4. GPU+gems+2
-5. GPU+Pro
-6. [OpenGL SuperBible](http://www.openglsuperbible.com/)
-7. [More Opengl Programming](http://glbook.gamedev.net/GLBOOK/glbook.gamedev.net/moglgp/index.html)
+#### 一、渲染相关
+- 《OpenGL超级宝典》：学习OpenGL
+-  LearnOpenGL的pdf格式
+- 《游戏编程精粹》系列
+- 《GPU精粹》系列：GPU+gems+1、GPU+gems+2、GPU+Pro等
+- 《ShaderX》系列
+- 《Game Engine Gems》 系列
+
+#### 二、 地形
+- 《Focus On 3D Terrain Programing》
+- 《Real Time 3D Terrain Engines Using C++ And DX9》
+- 《Level of Detail for 3D Graphics》
 
 
-### 算法相关书籍
-1. CleanCodeHandbook_v1.0.3——算法
+#### 三、物理
+- 《Game Physics》
+- 《游戏开发物理学(Physics for Game Developers)》
+- 《Game Physics Engine Development》
+- 《实时碰撞检测算法(Real-time Collision Detection)》
 
-### 设计模式相关书籍
-1. 大话设计模式
+#### 四、数学
+- 《3D游戏与计算机图形学中的数学方法》
+
+#### 五、引擎
+- 《Game Engine Architecture》：中文《游戏引擎架构》
+- 《3D Game Engine Programing》
+- 《Pro OGER 3D Programing》
+- 《3D Game Engine Design》
+- 《3D Game Engine Architecture : Engineering Real-Time Applications with WildMagic》
+ 
+#### 六、实时渲染
+- 《Real-Time Rendering》
+
+#### 七、图形学
+- 《3D 计算机图形学》
+- 《3D Graphics for Game Programing》
+- 《计算机图形学几何工具算法详解》
+- 《3D 数学基础：图形与游戏开发(3D Math Primer for Graphics and Game Development)》
+- 《Mathematics for 3D Game Programing & ComputerGraphics》
+  
+#### 八、进阶-设计模式
+- 《大话设计模式》
+- 《Head First设计模式》
+- 《设计模式：可复用面向对象软件的基础》
+
+#### 九、进阶-重构
+- 《重构：改善既有代码的设计》
+- 《clean code-代码整洁之道》
+- 《代码大全》
+- 《程序员修炼之道》
+- 《编程之美：微软技术面试心得》
+
+#### 十、进阶-c++
+- 《C++ Primer》: 由浅入深的学习C++
+- 《Effective C++》
+- 《STL源码剖析》
+- 《C++沉思录》
+
+#### 十一、其他
+- 《黑客与画家》
+- 《人月神话》
+
