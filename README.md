@@ -31,7 +31,7 @@
 
 ### 二、推荐书籍
 
-#### 一、渲染相关
+#### 1. 渲染相关
 - 《OpenGL超级宝典》：学习OpenGL
 -  LearnOpenGL的pdf格式
 - 《游戏编程精粹》系列
@@ -39,57 +39,57 @@
 - 《ShaderX》系列
 - 《Game Engine Gems》 系列
 
-#### 二、 地形
+#### 2. 地形
 - 《Focus On 3D Terrain Programing》
 - 《Real Time 3D Terrain Engines Using C++ And DX9》
 - 《Level of Detail for 3D Graphics》
 
 
-#### 三、物理
+#### 3. 物理
 - 《Game Physics》
 - 《游戏开发物理学(Physics for Game Developers)》
 - 《Game Physics Engine Development》
 - 《实时碰撞检测算法(Real-time Collision Detection)》
 
-#### 四、数学
+#### 4. 数学
 - 《3D游戏与计算机图形学中的数学方法》
 
-#### 五、引擎
+#### 5. 引擎
 - 《Game Engine Architecture》：中文《游戏引擎架构》
 - 《3D Game Engine Programing》
 - 《Pro OGER 3D Programing》
 - 《3D Game Engine Design》
 - 《3D Game Engine Architecture : Engineering Real-Time Applications with WildMagic》
  
-#### 六、实时渲染
+#### 6. 实时渲染
 - 《Real-Time Rendering》
 
-#### 七、图形学
+#### 7. 图形学
 - 《3D 计算机图形学》
 - 《3D Graphics for Game Programing》
 - 《计算机图形学几何工具算法详解》
 - 《3D 数学基础：图形与游戏开发(3D Math Primer for Graphics and Game Development)》
 - 《Mathematics for 3D Game Programing & ComputerGraphics》
   
-#### 八、进阶-设计模式
+#### 8. 进阶-设计模式
 - 《大话设计模式》
 - 《Head First设计模式》
 - 《设计模式：可复用面向对象软件的基础》
 
-#### 九、进阶-重构
+#### 9. 进阶-重构
 - 《重构：改善既有代码的设计》
 - 《clean code-代码整洁之道》
 - 《代码大全》
 - 《程序员修炼之道》
 - 《编程之美：微软技术面试心得》
 
-#### 十、进阶-c++
+#### 10. 进阶-c++
 - 《C++ Primer》: 由浅入深的学习C++
 - 《Effective C++》
 - 《STL源码剖析》
 - 《C++沉思录》
 
-#### 十一、其他
+#### 11. 其他
 - 《黑客与画家》
 - 《人月神话》
 
