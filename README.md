@@ -14,28 +14,44 @@
 - [zwqxin.shader](http://www.zwqxin.com/archives/shaderglsl.html) : 常用shader算法 
 - [zwqxin.OpenGL](http://www.zwqxin.com/archives/opengl.html) : 由浅入深介绍常用技术
 - [GLSandbox](http://www.glslsandbox.com) : 在线shader编程 
-- [Imagination中文网](http://imgtec.eetrend.com/tag/1831)：一个中文技术社区 
 - [The Books Of Shaders](http://thebookofshaders.com)：一本讲解shader开发的书，各种语言
+- [ShaderToy](https://www.shadertoy.com/results?query=&sort=hot&from=12&num=12)：是基于Shader编程来产生各种模型、纹理、动画效果的网站
 
 #### 3. WebGL
 - [WebGL中文网](http://hewebgl.com/article/articledir/1)
 - [three.js官网](https://threejs.org/examples/)
 
-#### 4. 其他
-- [开源计算机图形学社区](http://www.opengpu.org/forum.php)
-- [Vulkan](https://www.khronos.org/vulkan/) ：新一代图形渲染API，[Vulkan Tutorial](https://vulkan-tutorial.com/Loading_models)
+#### 4. 数学
 - [线性代数](https://betterexplained.com/articles/linear-algebra-guide/)
-- [Learn Anything](https://learn-anything.xyz) ：一个非常好用的学习搜索工具，能够很好地呈现学习路线  
-- [GPU Gems系列](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
+
+#### 5. 图形学
+
+- [GPU Gems系列](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)：英伟达官方
+
+
+- [开源计算机图形学社区](http://www.opengpu.org/forum.php)
+- [Vulkan](https://www.khronos.org/vulkan/) ：科纳斯新一代图形渲染API，[Vulkan Tutorial](https://vulkan-tutorial.com/Loading_models)
+- [计算机图形相关整理](https://www.douban.com/doulist/1445744/)：来自Milo大神
+
+#### 6. UE4引擎
+
+- [UE4中文文档](https://docs.unrealengine.com/zh-CN/index.html)：官方提供
+- [UE4英文文档](https://docs.unrealengine.com/en-US/index.html)：官方提供
+- [B站教程-新手入门](https://www.bilibili.com/video/av52017180)
+
+#### 7. 其他
+
 - [TingPNG](https://tinypng.com) ：一个无损的图片压缩在线网站
+- [Learn Anything](https://learn-anything.xyz) ：一个非常好用的学习搜索工具，能够很好地呈现学习路线  
 
 ### 二、推荐书籍
 
 #### 1. 渲染相关
 - 《OpenGL超级宝典》：学习OpenGL
--  LearnOpenGL的pdf格式
+- LearnOpenGL的pdf格式
 - 《游戏编程精粹》系列
-- 《GPU精粹》系列：GPU+gems+1、GPU+gems+2、GPU+Pro等
+- 《GPU精粹》系列：GPU+gems+1、GPU+gems+2、GPU+gems+3
+- 《GPU Pro》系列：从1-7共七本
 - 《ShaderX》系列
 - 《Game Engine Gems》 系列
 
@@ -60,7 +76,7 @@
 - 《Pro OGER 3D Programing》
 - 《3D Game Engine Design》
 - 《3D Game Engine Architecture : Engineering Real-Time Applications with WildMagic》
- 
+
 #### 6. 实时渲染
 - 《Real-Time Rendering》
 
@@ -70,7 +86,7 @@
 - 《计算机图形学几何工具算法详解》
 - 《3D 数学基础：图形与游戏开发(3D Math Primer for Graphics and Game Development)》
 - 《Mathematics for 3D Game Programing & ComputerGraphics》
-  
+
 #### 8. 进阶-设计模式
 - 《大话设计模式》
 - 《Head First设计模式》
@@ -88,6 +104,7 @@
 - 《Effective C++》
 - 《STL源码剖析》
 - 《C++沉思录》
+- **《inside the c++ object model》**：中文版是《深度探索C++对象模型 PDF中文清晰版》
 
 #### 11. 其他
 - 《黑客与画家》
