@@ -87,6 +87,7 @@
 - 《计算机图形学几何工具算法详解》
 - 《3D 数学基础：图形与游戏开发(3D Math Primer for Graphics and Game Development)》
 - 《Mathematics for 3D Game Programing & ComputerGraphics》
+- 《Fundamentals of Computer Graphics 》-- Peter Shirley，被称为虎书
 
 #### 8. 进阶-设计模式
 - 《大话设计模式》
@@ -107,7 +108,13 @@
 - 《C++沉思录》
 - **《inside the c++ object model》**：中文版是《深度探索C++对象模型 PDF中文清晰版》
 
-#### 11. 其他
+#### 11. 优秀的开源项目
+- UE4
+- OGRE
+- Urho3D
+- anki-3d-engine
+
+#### 12. 其他
 - 《黑客与画家》
 - 《人月神话》
-
+- 《Lua程序设计(第二版)》
