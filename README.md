@@ -27,6 +27,7 @@
 #### 5. 图形学
 
 - [GPU Gems系列](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)：英伟达官方
+- [GAMES101课程](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html):bilibili上有同步视频
 
 
 - [开源计算机图形学社区](http://www.opengpu.org/forum.php)
