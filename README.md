@@ -34,13 +34,7 @@
 - [Vulkan](https://www.khronos.org/vulkan/) ：科纳斯新一代图形渲染API，[Vulkan Tutorial](https://vulkan-tutorial.com/Loading_models)
 - [计算机图形相关整理](https://www.douban.com/doulist/1445744/)：来自Milo大神
 
-#### 6. UE4引擎
-
-- [UE4中文文档](https://docs.unrealengine.com/zh-CN/index.html)：官方提供
-- [UE4英文文档](https://docs.unrealengine.com/en-US/index.html)：官方提供
-- [B站教程-新手入门](https://www.bilibili.com/video/av52017180)
-
-#### 7. 其他
+#### *. 其他
 
 - [TingPNG](https://tinypng.com) ：一个无损的图片压缩在线网站
 - [Learn Anything](https://learn-anything.xyz) ：一个非常好用的学习搜索工具，能够很好地呈现学习路线  
@@ -119,3 +113,20 @@
 - OGRE
 - Urho3D
 - anki-3d-engine
+
+#### 2. UE4相关
+
+##### 2.1 入门
+
+- [UE4初学者系列教程合集-全中文新手入门教程](https://www.bilibili.com/video/av52017180)
+- [官方文档-中文版](https://docs.unrealengine.com/zh-CN/index.html)
+- [官方文档-英文版](https://docs.unrealengine.com/en-US/index.html)
+
+##### 2.2 材质
+
+- [Introduction to Materials (v4.0) 中文字幕](https://www.bilibili.com/video/av14246554)
+- [材质节点基础详解（中英），UE4美术相关必备知识](https://www.bilibili.com/video/av41462386/?p=1)
+
+##### 2.3 光照
+
+- [UE4 内容示例01-Welcom_体积_灯光](https://www.bilibili.com/video/av60913326)
