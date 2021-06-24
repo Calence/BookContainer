@@ -34,6 +34,10 @@
 - [Vulkan](https://www.khronos.org/vulkan/) ：科纳斯新一代图形渲染API，[Vulkan Tutorial](https://vulkan-tutorial.com/Loading_models)
 - [计算机图形相关整理](https://www.douban.com/doulist/1445744/)：来自Milo大神
 
+#### 6. 设计模式
+- [refactoringguru设计模式](https://refactoringguru.cn/design-patterns)
+- [C++ Design Patterns](http://www.vincehuston.org/dp/)
+
 #### *. 其他
 
 - [TingPNG](https://tinypng.com) ：一个无损的图片压缩在线网站
