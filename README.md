@@ -87,6 +87,8 @@
 - 《3D 数学基础：图形与游戏开发(3D Math Primer for Graphics and Game Development)》
 - 《Mathematics for 3D Game Programing & ComputerGraphics》
 - 《Fundamentals of Computer Graphics 》-- Peter Shirley，被称为虎书
+- 《OpenGL ES 2.0 编程指南 中文版》
+- 《OPENGL ES 3.0 编程指南》
 
 #### 8. 进阶-设计模式
 - 《大话设计模式》
@@ -111,6 +113,7 @@
 - 《黑客与画家》
 - 《人月神话》
 - 《Lua程序设计(第二版)》
+- 《高效能人士的七个习惯》
 
 ### 三、开源项目
 #### 1. 引擎相关
