@@ -28,6 +28,7 @@
 
 - [GPU Gems系列](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)：英伟达官方
 - [GAMES101课程](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html):bilibili上有同步视频
+- [GAMES104：现代游戏引擎：从入门到实践](https://games-cn.org/games104/)
 
 
 - [开源计算机图形学社区](http://www.opengpu.org/forum.php)
@@ -101,8 +102,8 @@
 
 #### 10. 进阶-c++
 - 《C++ Primer》: 由浅入深的学习C++
-- 《Effective C++》
-- 《STL源码剖析》
+- 《Effective C++ 中文第三版》：改善程序与设计的55个具体做法
+- 《STL源码剖析》:[SGI STL源码](https://github.com/steveLauwh/SGI-STL)
 - 《C++沉思录》
 - **《inside the c++ object model》**：中文版是《深度探索C++对象模型 PDF中文清晰版》
 
@@ -114,9 +115,10 @@
 ### 三、开源项目
 #### 1. 引擎相关
 - UE4
-- OGRE
-- Urho3D
-- anki-3d-engine
+- [OGRE](https://github.com/OGRECave/ogre)
+- [Urho3D](https://github.com/urho3d/Urho3D)
+- [anki-3d-engine](https://github.com/godlikepanos/anki-3d-engine)
+- [filament](https://github.com/google/filament)
 
 #### 2. UE4相关
 
