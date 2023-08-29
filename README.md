@@ -108,6 +108,7 @@
 - 《STL源码剖析》:[SGI STL源码](https://github.com/steveLauwh/SGI-STL)
 - 《C++沉思录》
 - **《inside the c++ object model》**：中文版是《深度探索C++对象模型 PDF中文清晰版》
+- C++并发编程：英文版C++ Concurrency in Action；中文版：C++ Concurrency in Action-中文版
 
 #### 11. 其他
 - 《黑客与画家》
