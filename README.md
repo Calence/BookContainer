@@ -140,3 +140,12 @@
 ##### 2.3 光照
 
 - [UE4 内容示例01-Welcom_体积_灯光](https://www.bilibili.com/video/av60913326)
+
+
+
+
+
+#### 3. 开源项目
+
+- **[tinyrenderer](https://github.com/ssloy/tinyrenderer)**：C++代码实现的简短的渲染器（500行代码）
+- **[SoftGLRender](https://github.com/keith2018/SoftGLRender)**：C++实现的软光栅渲染器
